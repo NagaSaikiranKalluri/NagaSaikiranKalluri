@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sai Kiran Kalluri</h1>
 <h3 align="center">Data Science Enthusiast | MS in Data Science & Analytics | Experienced Professional with 3 Years in Data Science | Passionate about Unraveling Insights from Data</h3>
 
-#### I am an aspiring Data Analyst, who likes to enrich insights through Data Science. I have a passion for exploring data to gather insights. I love story-telling and authoring my analysis through a story of impactful visualizations. Both the journey and the findings excite me! ####
+#### I am an aspiring Data Engineer, who likes to enrich insights through Data Science. I have a passion for exploring data to gather insights. I love story-telling and authoring my analysis through a story of impactful visualizations. Both the journey and the findings excite me! ####
 
 # 💫 About Me:
 🧑‍🎓 Currently pursuing **Master's in Data Science and Analytics @ Georgia State University**<br>
